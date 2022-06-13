@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "2041382236",
+    "project_id": "lojaakira-35e61",
+    "storage_bucket": "lojaakira-35e61.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:2041382236:android:edc930ab2a2fa027f1ed99",
+        "android_client_info": {
+          "package_name": "com.example.loja_akira"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "2041382236-enu6l80813lu9rfp53n7h84fg05v8rs5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNZLr9oZXIDJ-IP7kY3LnO8ORLjR957wY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "2041382236-enu6l80813lu9rfp53n7h84fg05v8rs5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
