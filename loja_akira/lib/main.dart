@@ -1,6 +1,8 @@
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
 import 'package:loja_akira/pages/Criar_conta.dart';
+import 'package:loja_akira/pages/estoque.dart';
+import 'package:loja_akira/pages/inserir.dart';
 import 'package:loja_akira/pages/login.dart';
 import 'package:loja_akira/pages/principal.dart';
 
@@ -20,6 +22,8 @@ class MyApp extends StatelessWidget{
         'login': (context) => const Login(),
         'principal':(context) => const PrincipalPage(),
         'sign_up':(context) => const CriarContaPage(),
+        'inserir':(context) => const InsertPage(),
+        'estoque': (context) => const InventoryPage(),        
       },
     );
 }
